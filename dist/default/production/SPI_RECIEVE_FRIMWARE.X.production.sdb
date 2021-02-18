@@ -1,0 +1,84 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"20 C:\Users\original\MPLABXProjects\SPI_RECIEVE_FRIMWARE.X\spi_recieve_frimware.c
+[v _main main `(v  1 e 1 0 ]
+"34
+[v _SPI_Slave_Init SPI_Slave_Init `(v  1 e 1 0 ]
+"62
+[v _SPI_Read SPI_Read `(uc  1 e 1 0 ]
+"80
+[v _ISR ISR `II(v  1 e 1 0 ]
+"808 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877a.h
+[v _SSPBUF SSPBUF `VEuc  1 e 1 @19 ]
+"2413
+[v _BF BF `VEb  1 e 0 @1184 ]
+"2494
+[v _CKE CKE `VEb  1 e 0 @1190 ]
+"2497
+[v _CKP CKP `VEb  1 e 0 @164 ]
+"2569
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"2617
+[v _PCFG0 PCFG0 `VEb  1 e 0 @1272 ]
+"2620
+[v _PCFG1 PCFG1 `VEb  1 e 0 @1273 ]
+"2623
+[v _PCFG2 PCFG2 `VEb  1 e 0 @1274 ]
+"2626
+[v _PCFG3 PCFG3 `VEb  1 e 0 @1275 ]
+"2629
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"2809
+[v _SMP SMP `VEb  1 e 0 @1191 ]
+"2818
+[v _SSPEN SSPEN `VEb  1 e 0 @165 ]
+"2821
+[v _SSPIE SSPIE `VEb  1 e 0 @1123 ]
+"2824
+[v _SSPIF SSPIF `VEb  1 e 0 @99 ]
+"2827
+[v _SSPM0 SSPM0 `VEb  1 e 0 @160 ]
+"2830
+[v _SSPM1 SSPM1 `VEb  1 e 0 @161 ]
+"2833
+[v _SSPM2 SSPM2 `VEb  1 e 0 @162 ]
+"2836
+[v _SSPM3 SSPM3 `VEb  1 e 0 @163 ]
+"2839
+[v _SSPOV SSPOV `VEb  1 e 0 @166 ]
+"2932
+[v _TRISA5 TRISA5 `VEb  1 e 0 @1069 ]
+"2968
+[v _TRISC3 TRISC3 `VEb  1 e 0 @1083 ]
+"2971
+[v _TRISC4 TRISC4 `VEb  1 e 0 @1084 ]
+"2974
+[v _TRISC5 TRISC5 `VEb  1 e 0 @1085 ]
+"17 C:\Users\original\MPLABXProjects\SPI_RECIEVE_FRIMWARE.X\spi_recieve_frimware.c
+[v _Data Data `uc  1 e 1 0 ]
+"20
+[v _main main `(v  1 e 1 0 ]
+{
+"31
+} 0
+"34
+[v _SPI_Slave_Init SPI_Slave_Init `(v  1 e 1 0 ]
+{
+"61
+} 0
+"80
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"87
+} 0
